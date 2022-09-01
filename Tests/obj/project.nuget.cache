@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r9WlumEawdtbNWfhKR9HkbnNSSjco413Cz0cmCzEEOQKvO3es11ABUBzkzE6ljKKGubsomaPMrKKaHQIweW4vQ==",
+  "dgSpecHash": "akCYR3sISVMNgjb6iODvSawQfsvkO0/LC/1GOe6qZ+IjQbjYtYZncrDZDpMp7wvMfk3TOllm06yttYvkCpdtVQ==",
   "success": true,
-  "projectFilePath": "/Users/daniildavydov/Documents/C#/Todotests/Tests/Tests.csproj",
+  "projectFilePath": "/Users/daniildavydov/Downloads/Todotests-main/Tests/Tests.csproj",
   "expectedPackageFiles": [
     "/Users/daniildavydov/.nuget/packages/castle.core/5.1.0/castle.core.5.1.0.nupkg.sha512",
     "/Users/daniildavydov/.nuget/packages/entityframework/6.4.0/entityframework.6.4.0.nupkg.sha512",

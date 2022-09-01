@@ -8357,11 +8357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniildavydov/Documents/C#/Todotests/Tests/Tests.csproj",
+      "projectUniqueName": "/Users/daniildavydov/Downloads/Todotests-main/Tests/Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "/Users/daniildavydov/Documents/C#/Todotests/Tests/Tests.csproj",
+      "projectPath": "/Users/daniildavydov/Downloads/Todotests-main/Tests/Tests.csproj",
       "packagesPath": "/Users/daniildavydov/.nuget/packages/",
-      "outputPath": "/Users/daniildavydov/Documents/C#/Todotests/Tests/obj/",
+      "outputPath": "/Users/daniildavydov/Downloads/Todotests-main/Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daniildavydov/.nuget/NuGet/NuGet.Config"
@@ -8376,8 +8376,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/daniildavydov/Documents/C#/Todotests/dotnet-core-api-master/TodoApi.csproj": {
-              "projectPath": "/Users/daniildavydov/Documents/C#/Todotests/dotnet-core-api-master/TodoApi.csproj"
+            "/Users/daniildavydov/Downloads/Todotests-main/dotnet-core-api-master/TodoApi.csproj": {
+              "projectPath": "/Users/daniildavydov/Downloads/Todotests-main/dotnet-core-api-master/TodoApi.csproj"
             }
           }
         }
